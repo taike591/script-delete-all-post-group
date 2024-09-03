@@ -1,0 +1,1 @@
+# script-delete-all-post-group
